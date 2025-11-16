@@ -48,3 +48,12 @@ Here are the technologies I actively use and the projects I've built with them.
 * **[personal-portfolio](https://github.com/ecrinyetim/personal-portfolio)** & **[Quizzy](https://github.com/ecrinyetim/Quizzy)**
     * **Field:** Web Development
     * **Description:** My personal portfolio site and an interactive quiz application developed using JavaScript, HTML, and CSS.
+ 
+### 📫 Contact Me
+
+<a href="https://www.linkedin.com/in/ecrin-yetim-568230255">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:ecrinyetim138@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
