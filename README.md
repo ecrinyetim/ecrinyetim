@@ -27,7 +27,7 @@ Here are the technologies I actively use and the projects I've built with them.
 
 **My Tech Stack:**
 
-* **Languages:** Python, C#, JavaScript, SQL
+* **Languages:** Python, C#, JavaScript, SQL, Java
 * **Frameworks & Libraries:** OpenCV,PyTorch, TensorFlow, .NET Core, PyQt5, Scikit-learn, Leaflet.js
 * **Areas of Interest:** Machine Learning, Computer Vision, GIS, Web Development, Desktop Application Development
 
