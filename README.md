@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Ecrin.
 
-I am a 4th-year Computer Engineering student at **Balıkesir University**, passionate about the problem-solving power of technology. I am particularly interested in **Machine Learning** and **Computer Vision** and am actively improving my skills in these fields.
+I am a recent Computer Engineering graduate from **Balıkesir University**, passionate about the problem-solving power of technology. I am particularly interested in **Machine Learning** and **Computer Vision** and am actively improving my skills in these fields.
 
 Through my internship experiences in various areas of software development, I have had the opportunity to learn about both enterprise systems and geographic data analysis.
 
